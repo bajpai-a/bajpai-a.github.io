@@ -1,7 +1,7 @@
 {
-  "researcherName": "John Doe",
+  "researcherName": "Ankita Bajpai",
   "institution": "{Institution Name}",
-  "email": "{email@example.com}",
+  "email": "ankita.bajpai.job@gmail.com",
   "theme": "light",
   "links": {
     "googleScholar": "https://scholar.google.com/citations?user={user_id}",
@@ -153,12 +153,14 @@
       "sectionHeading": "Get in Touch",
       "content": {
         "intro": "{Introduction text}",
-        "linksToDisplay": ["linkedin", "email"],
+        "linksToDisplay": [
+          "linkedin",
+          "email"
+        ],
         "outro": "{Outro text}"
       }
     }
   },
-
   "specialSections": {
     "allPublications": {
       "id": "AllPublications",
@@ -177,5 +179,6 @@
       "headerText": "[Docs]",
       "path": "/docs"
     }
-  }
+  },
+  "baseUrl": ""
 }
